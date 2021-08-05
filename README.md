@@ -23,13 +23,12 @@ We are at the initial stages of getting to know the group members and here we ar
 
 ## First task:
 **The Spreadsheet project**  
+
 1. Each team should create a GitHub repo. Add a comprehensive readme.md with essential information about the internship, the team, the contributors, pictures if possible using markdown.
 
-<<<<<<< HEAD
 2. Each team will work on a minimum of  7 different programming languages. For each person in a team, pick one of the 7 programming languages, Write a script that prints your name, your email, your slack username (with @), your biostack, twitter useraname and hamming distance, in that order.Push the script to your team’s git repo
 =======
 2. Each team will work on a minimum of  7 different programming languages. For each person in a team, pick one of the 7 programming languages, Write a script that prints your name, your email, your slack username (with @), biostack and twitter username in that order.Push the script to your team’s git repo
->>>>>>> 8bb85c868b16f666c022efd8542d5fce41b245bd
 
 3. Collaboratively as a team, develop a bash script that clones the git repo, and generates a CSV file from all the outputs of your team’s scripts. Submit your team’s GitHub link to only the bash script 
 
