@@ -1,0 +1,14 @@
+<html>
+<body>
+
+<h2>JavaScript Strings</h2>
+
+<p>Name: Kavisha Shroff </p>
+<p>Email: kavisharshroff@gmail.com <p>
+<p>Slack username: @Kavisha <p>
+<p>Biostack: Genomics <p>
+
+
+
+</body>
+</html>
