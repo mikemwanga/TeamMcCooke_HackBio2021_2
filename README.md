@@ -18,7 +18,7 @@ We are at the initial stages of getting to know the group members and here we ar
 9. **Luisa**
 10. **Gautami**
 11. **Apurva**
-
+12. **Mercy**
 
 
 ## First task:
