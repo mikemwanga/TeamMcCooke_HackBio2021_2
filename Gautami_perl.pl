@@ -14,5 +14,5 @@ for ($i=1; $i<=$a; $i++)
   }
 }
 
-print "Name: Gautami Patki\nEmail ID: gautamipatki\@gmail.com\nSlack username: \@Gautami\nBiostack: Genomics\nTwitter username: \@GPATKI_\nHamming Distance= $HAM\n";
+print "Gautami Patki\ngautamipatki\@gmail.com\n\@Gautami\nGenomics\n\@GPATKI_\n$HAM\n";
 
