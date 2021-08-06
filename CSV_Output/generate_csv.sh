@@ -26,8 +26,8 @@ for file in *; do
     paste -sd '\n' ../file.csv
   
   elif [[ $file == Mercy.py ]]; then
-#    python3 $file | paste -sd '\t'  >> ../file.csv
-#    paste -sd '\n' ../file.csv  
+    python3 $file | paste -sd '\t'  >> ../file.csv
+    paste -sd '\n' ../file.csv  
     
     
     
