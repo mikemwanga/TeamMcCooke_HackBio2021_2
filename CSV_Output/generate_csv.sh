@@ -24,6 +24,12 @@ for file in *; do
   elif [[ $file == mike.py ]]; then
     python3 $file | paste -sd '\t'  >> ../file.csv
     paste -sd '\n' ../file.csv
+  
+#  elif [[ $file == <yourscriptname> ]]; then
+#    <command to execute your script in bash> | paste -sd '\t'  >> ../file.csv
+#    paste -sd '\n' ../file.csv  
+    
+    
     
   fi
   
