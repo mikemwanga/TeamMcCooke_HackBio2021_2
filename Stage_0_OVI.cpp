@@ -18,7 +18,7 @@ int main()
     
     cout<<"Biostack:Drug Development"<<endl;
 
-    cout<<"Twitter username:@ovi_trisad"<<endl;
+    cout<<"@Twitter username:@ovi_trisad"<<endl;
     
     cout<<"Hamming distance:'3'";
     
