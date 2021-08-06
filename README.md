@@ -7,7 +7,7 @@ We are at the initial stages of getting to know the group members and here we ar
 ## The Team
 
 
-1. **Kavisha** (Team Leader)
+1. **Gautami** (Team Leader)
 2. **Mike**  
 3. **Licience**
 4. **Joshua**
@@ -16,7 +16,7 @@ We are at the initial stages of getting to know the group members and here we ar
 7. **Temmykeji**
 8. **Nandha**
 9. **Luisa**
-10. **Gautami**
+10. **Kavisha**
 11. **Apurva**
 12. **Mercy**
 
