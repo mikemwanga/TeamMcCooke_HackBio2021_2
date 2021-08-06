@@ -4,6 +4,7 @@
 #Do not include prefixes for each output i.e name: Elon Musk. Just Elon Musk
 #clone git repo
 #generate csv file from all output of scripts
+#Ensure git, python3 perl and c++ are installed in your environent
 
 
 git clone https://github.com/mikemwanga/TeamMcCooke_HackBio2021_2.git
