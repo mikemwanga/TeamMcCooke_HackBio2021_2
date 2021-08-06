@@ -1,4 +1,3 @@
-print("Hackbio_internship_2021")
 print("Name:Nandha Elangovan")
 print("Email_id:nandhusan@gmail.com")
 print("slack_usename:Nandy")
