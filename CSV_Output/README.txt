@@ -5,6 +5,13 @@ link (https://github.com/mikemwanga/TeamMcCooke_HackBio2021_2/blob/main/CSV_Outp
 The bash script generates a csv file with the required details.
 NOTE
 Your current directory should contain your script and generate_csv.sh
+Ensure your output is in the following order (vertically):
+  1. Name
+  2. email
+  3. @slack username
+  4. Biostack
+  5. @Twitter username
+  6. Hamming distance
 
 
 STEPS
