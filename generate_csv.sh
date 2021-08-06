@@ -3,39 +3,33 @@
 #Ensure your output is in this order: name, email,slackusername, bistack, twitter handle, hamming distance
 #Do not include prefixes for each output i.e name: Elon Musk. Just Elon Musk
 
-
-
 #clone git repo
 #generate csv file from all output of scripts
 
-git clone https://github.com/mikemwanga/TeamMcCooke_HackBio2021.git
 
-printf "Name\tE-mail\tSlack_username\tBiostack\tTwitter_username\tHammingDist\n" > TeamMcCooke_HackBio2021/file.csv #create column names for the csv file and append script aoutputs
+git clone https://github.com/mikemwanga/TeamMcCooke_HackBio2021_2.git
 
-Rscript Elon.R | paste -sd '\t' >> TeamMcCooke_HackBio2021/file.csv
+printf  "Name\tE-mail\tSlack_username\tBiostack\tTwitter_username\tHammingDist\n" > file.csv
+ #create column names for the csv file and append script aoutputs
 
-paste -sd '\n' TeamMcCooke_HackBio2021/file.csv
-
-python3 mike.py | paste -sd '\t'  >> TeamMcCooke_HackBio2021/file.csv
-
-printf "\n" >> TeamMcCooke_HackBio2021/file.csv
+#Loop through the files and append output to the file.csv
 
 
-
-#A loop
-
+cd TeamMcCooke_HackBio2021_2
 for file in *; do
   if [[ $file == Elon.R ]]; then
-    Rscript $file | paste -sd '\t' >> TeamMcCooke_HackBio2021/file.csv
-    paste -sd '\n' TeamMcCooke_HackBio2021/file.csv
+    Rscript $file | paste -sd '\t' >> ../file.csv
+    paste -sd '\n' ../file.csv
     
   elif [[ $file == mike.py ]]; then
-    python3 $file | paste -sd '\t'  >> TeamMcCooke_HackBio2021/file.csv
-    paste -sd '\n' TeamMcCooke_HackBio2021/file.csv
+    python3 $file | paste -sd '\t'  >> ../file.csv
+    paste -sd '\n' ../file.csv
     
   fi
   
 done
+cd ../
+
 
 
 #rm -rf TeamMcCooke_HackBio2021
