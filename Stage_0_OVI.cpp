@@ -12,9 +12,9 @@ int main()
     
     cout<<"Name:TRISAD ARMAN OVI"<<endl;
 
-    cout<<"E-mail:ta872068@student.nitw.ac.in"<<endl;
+    cout<<"email:ta872068@student.nitw.ac.in"<<endl;
     
-    cout<<"@slack username_:@OVI "<<endl;
+    cout<<"@slack username:@OVI "<<endl;
     
     cout<<"Biostack:Drug Development"<<endl;
 
