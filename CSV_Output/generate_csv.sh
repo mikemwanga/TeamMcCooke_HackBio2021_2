@@ -8,7 +8,7 @@
 
 
 git clone https://github.com/mikemwanga/TeamMcCooke_HackBio2021_2.git
-printf  "Name\tE-mail\tSlack_username\tBiostack\tTwitter_username\tHammingDist\n" > file.csv
+printf  "Name,E-mail,Slack_username,Biostack,Twitter_username,HammingDist\n" > file.csv
 
 #create column names for the csv file and append script aoutputs
 
@@ -16,7 +16,7 @@ printf  "Name\tE-mail\tSlack_username\tBiostack\tTwitter_username\tHammingDist\n
 g++ ./TeamMcCooke_HackBio2021_2/Stage_0_OVI.cpp -o ovi
 
 
-./ovi | paste -sd "\t" >> file.csv
+./ovi | paste -sd "," >> file.csv
 python3 ./TeamMcCooke_HackBio2021_2/Mercy.py | paste -sd "," >> file.csv
 Rscript ./TeamMcCooke_HackBio2021_2/Luisa.R | paste -sd "," >> file.csv
 Rscript ./TeamMcCooke_HackBio2021_2/Temmykeji_HackBio_Assignment.R | paste -sd "," >> file.csv
