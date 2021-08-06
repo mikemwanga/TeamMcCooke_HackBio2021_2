@@ -30,6 +30,4 @@ for file in *; do
 done
 cd ../
 
-
-
-#rm -rf TeamMcCooke_HackBio2021
+rm -rf TeamMcCooke_HackBio2021_2
