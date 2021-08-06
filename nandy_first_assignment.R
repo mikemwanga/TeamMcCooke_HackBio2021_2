@@ -1,6 +1,8 @@
-print("Nandha Elangovan")
-print("nandhusan@gmail.com")
-print("@Nandy")
-print("Genomics")
-print("@Nandy")
-print(hamming_distance <- sum("@Nandy" != "@Nandy"))
+name <- "Nandha Elangovan"
+email <- "nandhusan@gmail.com"
+slackuser <- "@Nandy"
+biostack <- "Genomics"
+twitter <- "@Nandy"
+hd <- hamming_distance <- sum("@Nandy" != "@Nandy")
+
+cat(paste(name, email,slackuser,biostack, twitter, hd,sep="\n"))
