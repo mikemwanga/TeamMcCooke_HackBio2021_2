@@ -1,5 +1,4 @@
-
-    ///#####-HackBio-#####-HackBio-#####-HackBio-2021
+///#####-HackBio-#####-HackBio-#####-HackBio-2021
 ///------Trisad Arman Ovi------
 ///------HackBio Bioinformatics Internship2021------
 ///------TeamMcCooke_HackBio2021------
@@ -21,17 +20,22 @@ int hammingDist(char *str1, char *str2)
 
 int main()
 {
-	
+	//Name:
 	cout<<"TRISAD ARMAN OVI"<<endl;
-
+	
+    //E-mail:
     cout<<"ta872068@student.nitw.ac.in"<<endl;
-
+ 
+    //@Slack_Username:
     cout<<"@OVI "<<endl;
 
+    //Biostack: 
     cout<<"Drug Development"<<endl;
     
+    //@Twitter_Username:
     cout<<"@ovi_trisad"<<endl;
     
+    //Hamming_Distance:
     char str1[] = "@OVI";
     
 	char str2[] = "@ovi_trisad";
@@ -40,3 +44,7 @@ int main()
 
 	return 0;
 }
+  
+    
+	
+    
