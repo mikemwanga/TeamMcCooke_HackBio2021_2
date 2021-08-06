@@ -20,7 +20,7 @@ int main()
 
     cout<<"@Twitter username:@ovi_trisad"<<endl;
     
-    cout<<"Hamming distance:'3'";
+    cout<<"Hamming distance:3";
     
     
     return 0;
