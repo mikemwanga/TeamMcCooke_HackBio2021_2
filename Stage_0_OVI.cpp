@@ -12,7 +12,7 @@ int main()
     
     cout<<"Name:TRISAD ARMAN OVI"<<endl;
 
-    cout<<"email:ta872068@student.nitw.ac.in"<<endl;
+    cout<<"E-mail:ta872068@student.nitw.ac.in"<<endl;
     
     cout<<"@slack username_:@OVI "<<endl;
     
