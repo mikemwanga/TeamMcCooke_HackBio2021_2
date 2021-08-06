@@ -1,3 +1,10 @@
+
+    ///#####-HackBio-#####-HackBio-#####-HackBio-2021
+///------Trisad Arman Ovi------
+///------HackBio Bioinformatics Internship2021------
+///------TeamMcCooke_HackBio2021------
+///------programming languages C++ ------
+
 #include<bits/stdc++.h>
 using namespace std;
 int hammingDist(char *str1, char *str2)
@@ -15,15 +22,15 @@ int hammingDist(char *str1, char *str2)
 int main()
 {
 	
-	cout<<"Name:TRISAD ARMAN OVI"<<endl;
+	cout<<"TRISAD ARMAN OVI"<<endl;
 
-    cout<<"email:ta872068@student.nitw.ac.in"<<endl;
+    cout<<"ta872068@student.nitw.ac.in"<<endl;
 
-    cout<<"@slack username:@OVI "<<endl;
+    cout<<"@OVI "<<endl;
 
-    cout<<"Biostack:Drug Development"<<endl;
+    cout<<"Drug Development"<<endl;
     
-    cout<<"@Twitter username:@ovi_trisad"<<endl;
+    cout<<"@ovi_trisad"<<endl;
     
     char str1[] = "@OVI";
     
@@ -33,4 +40,3 @@ int main()
 
 	return 0;
 }
-    
