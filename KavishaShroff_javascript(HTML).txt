@@ -7,22 +7,22 @@
 <p>Email: kavisharshroff@gmail.com <p>
 <p>Slack username: @Kavisha <p>
 <p>Biostack: Genomics <p>
+<p> Twitter username: @Kavisha_Shroff
 
-const Tw_n = '@kavisha_shroff';
-const S_n = 'kavisha';
-const hammingDistance = (Tw_n = '', S_n= '') => {
-   if (Tw_n.length !== S_n.length) {
-      return 0;
-   }
-   let dist = 0;
-   for (let i = 0; i < str1.length; i += 1) {
-      if (Tw_n [i] !== S_n[i]) {
-         dist += 1;
-      };
-   };
-   return dist;
-};
-console.log(hammingDistance(Tw_n , S_n));
+      function hammingDistance(@Kavisha_Shroff,  @Kavisha) {
+        let count = 0;
+
+        if (@Kavisha_Shroff.length === @Kavisha.length) {
+          for (let i = 0; i <= @Kavisha_Shroff.length; i++) {
+            if (@Kavisha_Shroff.toLowerCase()[i] !== @Kavisha.toLowerCase()[i]) {
+              count++;
+            }
+          }
+
+          return count;
+        }
+        return "unequal word lengths";
+      }
 
 </body>
 </html>
