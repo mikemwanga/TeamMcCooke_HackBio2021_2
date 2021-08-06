@@ -1,0 +1,6 @@
+print("Nandha Elangovan")
+print("nandhusan@gmail.com")
+print("@Nandy")
+print("Genomics")
+print("@Nandy")
+print(hamming_distance <- sum("@Nandy" != "@Nandy"))
