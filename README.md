@@ -26,19 +26,19 @@ The goal of the internship is to provide reasonable research experience with at 
 9. **Luisa**
 10. **Kavisha**
 11. **Apurva** 
-    E-mail: apurvagosavi5@gmail.com 
-    Slack username: @ApurvaaGo 
-    Biostack: Genomics.  
-    Twittter username: @happyappy  
-    programming language: Java  
+    E-mail: apurvagosavi5@gmail.com  
+    Slack username: @ApurvaaGo   
+    Biostack: Genomics.   
+    Twittter username: @happyappy   
+    programming language: Java   
     Linkedin: [Apurva Gosavi](linkedin.com/in/apurva-gosavi-5a6590192)
 13. **Mercy**
-     E-mail: modupemercyanthony@gmail.com
-     Slack Username: @Mercy
-     Biostack: Data Science
-     Twitter Username: @Dupe_
-     Programming language: python
-     LinkedIn: [Modupe Anthony](https://www.linkedin.com/in/modupe-anthony-066392177)
+     E-mail: modupemercyanthony@gmail.com.  
+     Slack Username: @Mercy.  
+     Biostack: Data Science.  
+     Twitter Username: @Dupe_.  
+     Programming language: python.  
+     LinkedIn: [Modupe Anthony](https://www.linkedin.com/in/modupe-anthony-066392177).  
 
 
 
