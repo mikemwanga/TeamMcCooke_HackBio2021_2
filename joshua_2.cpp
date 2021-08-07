@@ -29,7 +29,12 @@ int main()
       cout << "@leyeleye0" << endl;
 
    
+        /* hamming distance*/
+       char str1[] ="@joshua0";
 
+        char str2[] = "@leyeleye0";
+
+        cout << hammingDist (str1, str2);
 
 
 
