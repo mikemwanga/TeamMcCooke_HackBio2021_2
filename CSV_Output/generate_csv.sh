@@ -12,11 +12,11 @@ printf  "Name,E-mail,Slack_username,Biostack,Twitter_username,HammingDist\n" > f
 
 #create column names for the csv file and append script aoutputs
 
-
 g++ ./TeamMcCooke_HackBio2021_2/Stage_0_OVI.cpp -o ovi
-
+g++ ./TeamMcCooke_HackBio2021_2/joshua.cpp -o joshua
 
 ./ovi | paste -sd "," >> file.csv
+./joshua | paste -sd "," >> file.csv
 python3 ./TeamMcCooke_HackBio2021_2/Mercy.py | paste -sd "," >> file.csv
 Rscript ./TeamMcCooke_HackBio2021_2/Luisa.R | paste -sd "," >> file.csv
 Rscript ./TeamMcCooke_HackBio2021_2/Temmykeji_HackBio_Assignment.R | paste -sd "," >> file.csv
@@ -24,6 +24,5 @@ Rscript ./TeamMcCooke_HackBio2021_2/nandy_first_assignment.R | paste -sd "," >> 
 python3 ./TeamMcCooke_HackBio2021_2/mike.py | paste -sd "," >> file.csv
 perl ./TeamMcCooke_HackBio2021_2/Gautami_perl.pl | paste -sd "," >> file.csv
 
-
-rm ovi
+rm ovi joshua
 rm -rf TeamMcCooke_HackBio2021_2
