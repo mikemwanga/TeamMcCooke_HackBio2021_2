@@ -27,6 +27,12 @@ The goal of the internship is to provide reasonable research experience with at 
 10. **Kavisha**
 11. **Apurva**
 12. **Mercy**
+     E-mail: modupemercyanthony@gmail.com
+     Slack Username: @Mercy
+     Biostack: Data Science
+     Twitter Username: @Dupe_
+     Programming language: python
+     LinkedIn: [Modupe Anthony](https://www.linkedin.com/in/modupe-anthony-066392177)
 
 
 ## First task:
