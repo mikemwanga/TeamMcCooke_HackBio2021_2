@@ -14,7 +14,7 @@ int main()
         cout << "@Joshua0" << endl;
 
     /* My biostack */
-      cout << "@Drug Development " << endl;
+      cout << "Drug Development " << endl;
 
     /* Twitter_Handle*/
       cout << "@leyeleye0" << endl;
