@@ -5,6 +5,13 @@ The goal of the internship is to provide reasonable research experience with at 
 ## The Team. 
 
 1. **Gautami** (Team Leader)
+    E-mail: gautamipatki@gmail.com.  
+    Slack username: @Gautami.  
+    Biostack: Genomics.  
+    Twittter username: @GPATKI_.  
+    programming language: perl.  
+    Linkedin: [Gautami Patki](linkedin.com/in/gautami-patki-a01889133)  
+
 2. **Mike**  
     E-mail: mikemwanga6@gmail.com.  
     Slack username: @Mike.  
