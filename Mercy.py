@@ -1,8 +1,8 @@
 print("Anthony Modupe Mercy")
 print("modupemercyanthony@gmail.com")
 print("@Mercy")
-print("Data analysis")
-print("Dupe_ ")
+print("Data science")
+print("@Dupe_ ")
 def hamming_distance(string1, string2): 
     distance = 0
     L = len(string1)
