@@ -4,7 +4,7 @@ The goal of the internship is to provide reasonable research experience with at 
 
 ## The Team. 
 
-1. **Gautami** (Team Leader)
+1. **Gautami** (Team Leader).  
     E-mail: gautamipatki@gmail.com.  
     Slack username: @Gautami.  
     Biostack: Genomics.  
@@ -25,14 +25,14 @@ The goal of the internship is to provide reasonable research experience with at 
 8. **Nandha**
 9. **Luisa**
 10. **Kavisha**
-11. **Apurva** 
+11. **Apurva**  
     E-mail: apurvagosavi5@gmail.com  
     Slack username: @ApurvaaGo   
     Biostack: Genomics.   
     Twittter username: @happyappy   
     programming language: Java   
     Linkedin: [Apurva Gosavi](linkedin.com/in/apurva-gosavi-5a6590192)
-13. **Mercy**
+13. **Mercy**.  
      E-mail: modupemercyanthony@gmail.com.  
      Slack Username: @Mercy.  
      Biostack: Data Science.  
