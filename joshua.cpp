@@ -11,7 +11,7 @@ int main()
       cout << "Fakorede19@gmail.com" << endl;
 
     /*Slack_Username*/
-        cout << "Joshua0" << endl;
+        cout << "@Joshua0" << endl;
 
     /* My biostack */
       cout << "@Drug Development " << endl;
@@ -20,6 +20,12 @@ int main()
       cout << "@leyeleye0" << endl;
 
 
+   //Hamming_Distance:
+      char str1[] = "@Joshua0";
+    
+	  char str2[] = "@leyeleye0";
+    
+        cout << hammingDist (str1, str2)
 
     return 0;
 }
