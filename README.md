@@ -10,6 +10,7 @@ The goal of the internship is to provide reasonable research experience with at 
     Slack username: @Mike.  
     Biostack: Data Science.  
     Twittter username: @ItsMike.  
+    programming language: python.  
     Linkedin: [mike-mwanga](https://www.linkedin.com/in/mike-mwanga-ab17389a/)  
 4. **Licience**
 6. **Ovi**
