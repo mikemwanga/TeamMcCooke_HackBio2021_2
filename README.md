@@ -6,11 +6,11 @@ The goal of the internship is to provide reasonable research experience with at 
 
 1. **Gautami** (Team Leader)
 2. **Mike**  
-    E-mail: mikemwanga6@gmail.com
-    Slack username: @Mike
-    Biostack: Data Science
-    Twittter username: @ItsMike
-    Linkedin: [mike-mwanga](https://www.linkedin.com/in/mike-mwanga-ab17389a/)
+    E-mail: mikemwanga6@gmail.com.  
+    Slack username: @Mike.  
+    Biostack: Data Science.  
+    Twittter username: @ItsMike.  
+    Linkedin: [mike-mwanga](https://www.linkedin.com/in/mike-mwanga-ab17389a/)  
 4. **Licience**
 6. **Ovi**
 7. **Temmykeji**
