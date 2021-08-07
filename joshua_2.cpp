@@ -10,6 +10,8 @@ int hammingDist(char *str1, char *str2)
 
             i++;
     }
+
+    return count;
 }
 int main()
 {
