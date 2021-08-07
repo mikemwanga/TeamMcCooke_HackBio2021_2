@@ -13,7 +13,7 @@ printf  "Name,E-mail,Slack_username,Biostack,Twitter_username,HammingDist\n" > f
 #create column names for the csv file and append script aoutputs
 
 g++ ./TeamMcCooke_HackBio2021_2/Stage_0_OVI.cpp -o ovi
-g++ ./TeamMcCooke_HackBio2021_2/joshua.cpp -o joshua
+g++ ./TeamMcCooke_HackBio2021_2/joshua_2.cpp -o joshua
 
 ./ovi | paste -sd "," >> file.csv
 ./joshua | paste -sd "," >> file.csv
