@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-int hammingDist(char *str1, char*str2)
+int hammingDist(char *str1, char *str2)
 {
     int i = 0, count = 0;
    while (str1[i] != '\0')
@@ -10,8 +10,6 @@ int hammingDist(char *str1, char*str2)
 
             i++;
     }
-
-    return count;
 }
 int main()
 {
@@ -30,10 +28,7 @@ int main()
     /* Twitter_Handle*/
       cout << "@leyeleye0" << endl;
 
-      /* hamming distance*/
-       char str1[] ="@joshua0";
-
-        char str2[] = "@leyeleye0";
+   
 
 
 
