@@ -2,16 +2,16 @@
 
 The goal of the internship is to provide reasonable research experience with at least a proof of publication/preprint that is tenable in their career progression efforts.
 
-We are at the initial stages of getting to know the group members and here we are:
-
-## The Team
-
+## The Team. 
 
 1. **Gautami** (Team Leader)
 2. **Mike**  
-3. **Licience**
-4. **Joshua**
-5. **Sherif**
+    E-mail: mikemwanga6@gmail.com
+    Slack username: @Mike
+    Biostack: Data Science
+    Twittter username: @ItsMike
+    Linkedin: [mike-mwanga](https://www.linkedin.com/in/mike-mwanga-ab17389a/)
+4. **Licience**
 6. **Ovi**
 7. **Temmykeji**
 8. **Nandha**
